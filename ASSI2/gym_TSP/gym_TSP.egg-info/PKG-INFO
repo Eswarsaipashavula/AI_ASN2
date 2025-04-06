@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: gym_TSP
+Version: 0.1
+Requires-Dist: gym
+Requires-Dist: numpy
+Dynamic: requires-dist
