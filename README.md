@@ -60,8 +60,8 @@ Running these files is really simple—just upload the `.ipynb` files to Google 
 
 
 
-**Simulated Annealing**
+## **Simulated Annealing**
 ![simulated_annealing_0](https://github.com/user-attachments/assets/745c2b14-f2eb-43f2-9f9a-80656a5991e6)
 
-**Hill Climbing**
+## **Hill Climbing**
 ![hill_climbing_0](https://github.com/user-attachments/assets/0e310776-ec27-4f2d-a0ea-86e03bf66e97)
