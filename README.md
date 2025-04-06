@@ -28,9 +28,14 @@ This project implements four classic search and optimization algorithms to solve
 - **TSP**: An optimization problem where the agent must visit all cities exactly once with minimum travel distance.
 
 ## 🚀 How to Run
-
+Frozen Lake
 Running these files is really simple—just upload the `.ipynb` files to Google Colab and execute them directly.
-
+TSP
+- clone into the HC and SA folder
+- Run
+- pip install -e .
+- Install any python libraries that are missing (matplotlib numpy gymnasium)
+- Execute the experiments.py in the HC and SA folder 
 ## 📈 Evaluation Criteria
 
 - **Performance Metrics**: Reward, time, and point of convergence.
