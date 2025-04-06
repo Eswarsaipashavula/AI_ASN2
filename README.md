@@ -1,6 +1,6 @@
 # AI Assignment 2: Search and Optimization
 
-This project implements four classic search and optimization algorithms to solve problems in various environments using OpenAI Gym-compatible environments.
+This project implements four classic search and optimization algorithms to solve problems in various environments.
 
 ## 👥 Team Members
 
