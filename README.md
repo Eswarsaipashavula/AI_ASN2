@@ -54,7 +54,7 @@ Running these files is really simple—just upload the `.ipynb` files to Google 
 - Frozen Lake Environment: https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 - TSP Environment: https://github.com/g-dendiev/gym_TSP
 
-**BnB and IDA\***
+## **BnB and IDA\***
 ![bnb_run_4](https://github.com/user-attachments/assets/195217c9-467d-4529-a3eb-96f94ea0f36e)
 ![ida_run_5](https://github.com/user-attachments/assets/4cb78890-33b4-49d4-8022-dec8de347228)
 
