@@ -46,5 +46,4 @@ Running these files is really simple—just upload the `.ipynb` files to Google 
 - Hill Climbing: https://en.wikipedia.org/wiki/Hill_climbing
 - Simulated Annealing: https://en.wikipedia.org/wiki/Simulated_annealing
 - Frozen Lake Environment: https://gymnasium.farama.org/environments/toy_text/frozen_lake/
-- Ant Maze Environment: https://robotics.farama.org/envs/maze/ant_maze/
 - TSP Environment: https://github.com/g-dendiev/gym_TSP
