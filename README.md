@@ -30,7 +30,8 @@ This project implements four classic search and optimization algorithms to solve
 ## 🚀 How to Run
 Frozen Lake
 Running these files is really simple—just upload the `.ipynb` files to Google Colab and execute them directly.
-TSP
+
+**TSP**
 - clone into the HC and SA folder
 - Run
 - pip install -e .
