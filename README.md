@@ -10,7 +10,7 @@ This project implements four classic search and optimization algorithms to solve
 ## 📌 Algorithms Implemented
 
 - **Branch and Bound (BnB)**
-- **Iterative Deepening A\***
+- **Iterative Deepening A\* (IDA\*)**
 - **Hill Climbing (HC)**
 - **Simulated Annealing (SA)**
 
@@ -24,11 +24,11 @@ This project implements four classic search and optimization algorithms to solve
 
 ## 💡 Problem Descriptions
 
-- **Frozen Lake / Ant Maze**: Navigation tasks for BnB and IDA*, aiming to reach the goal with optimal path-finding under stochasticity.
+- **Frozen Lake**: Navigation tasks for BnB and IDA*, aiming to reach the goal with optimal path-finding under stochasticity.
 - **TSP**: An optimization problem where the agent must visit all cities exactly once with minimum travel distance.
 
 ## 🚀 How to Run
-**Frozen Lake**
+**Frozen Lake (BnB and IDA\*)**
 - Running these files is really simple—just upload the `.ipynb` files to Google Colab and execute them directly.
 
 **TSP**
