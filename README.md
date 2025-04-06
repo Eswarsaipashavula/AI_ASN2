@@ -53,3 +53,4 @@ Running these files is really simple—just upload the `.ipynb` files to Google 
 - Simulated Annealing: https://en.wikipedia.org/wiki/Simulated_annealing
 - Frozen Lake Environment: https://gymnasium.farama.org/environments/toy_text/frozen_lake/
 - TSP Environment: https://github.com/g-dendiev/gym_TSP
+![simulated_annealing_0](https://github.com/user-attachments/assets/745c2b14-f2eb-43f2-9f9a-80656a5991e6)
